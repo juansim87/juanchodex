@@ -51,8 +51,6 @@ Proyecto de HTML5, CSS3 y JS en el que se practica con la [API de Pokémon](http
 
 ## Buenas Prácticas
 - **Metodología BEM**
-- **Uso de variables en CSS**
-- **Correcto uso de clases para DOM**
 
 ---
 
