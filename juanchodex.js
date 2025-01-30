@@ -84,8 +84,8 @@ const paintPokemons = (pokemonsToPaint) => {
 
     pokemonCard$$.className = "flip-card";
 
-    //En esta variable introducimos toda la información que queremos mostrar sobre el Pokemon. Estamos metiendo de manera literal la información, además de las url de la información.
-    // Usamos el método .padStart para rellenear los números de cada pokemon con 0 delante.
+    //En esta variable introducimos toda la información que queremos mostrar sobre el Pokemon. Estamos metiendo de manera literal la información, además de las url de cada elemento.
+    // Usamos el método .padStart() para rellenear los números de cada pokemon con 0 delante.
     const pokemonData = `
     
   <div class="flip-card-inner">
